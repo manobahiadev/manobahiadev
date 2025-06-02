@@ -11,13 +11,17 @@ Sou **desenvolvedor fullstack** com uma visão **estratégica e empreendedora**.
 - **Estruturo soluções White Label**, permitindo que agências e empreendedores lancem seus produtos rapidamente.
 - **Integro sistemas e automações** com APIs, pagamentos e fluxos inteligentes.
 - **Acelero o desenvolvimento com IA**, trazendo mais eficiência e inovação aos projetos.
+- **Implemento soluções completas em WordPress**, com foco em performance, SEO avançado e escalabilidade.
+- **Integro Woocommerce** com fluxos automatizados e sistemas externos.
+- **Configuro integrações com Google Analytics** e ferramentas de mensuração para tomada de decisão orientada a dados.
+- **Automatizo processos de agendamento**, conectando websites e aplicativos.
 
 ---
 
 ## 🛠️ Minhas ferramentas
 
 **Backend:**  
-PHP 8.2+, Laravel, MySQL/MariaDB  
+PHP 8.2+, Laravel, MySQL/MariaDB, WordPress, Woocommerce  
 
 **Frontend:**  
 Vue.js, Inertia.js, React, Tailwind CSS  
@@ -27,6 +31,9 @@ Linux, NGINX, Cloudflare, Deploy via terminal
 
 **Automação e IA:**  
 Modelos open-source, fluxos inteligentes e scripts para produtividade  
+
+**SEO e Analytics:**  
+Otimização avançada para motores de busca, integração com Google Analytics e monitoramento de desempenho  
 
 ---
 
@@ -49,12 +56,34 @@ Modelos open-source, fluxos inteligentes e scripts para produtividade
 
 ---
 
-## 📫 Vamos conversar?
+## 💼 Portfólio de Projetos
 
-- GitHub: [@manobahiadev](https://github.com/manobahiadev)
-- Email: digitalkmelo@gmail.com  
+### Websites e Landings
+
+- [Divino Marcenaria](https://divinomarcenaria.com.br/) - Landing Page para portfólio de marcenaria.
+- [Integrativa Pediatria](https://integrativapediatria.com.br/) - Website de pediatria com integração de agendamento e Google.
+- [Mari Piacsek](https://maripiacsek.com.br/) - Landing Page para gestora de mídias sociais.
+- [Mosaico Arquitetura Equestre](https://mosaicoarquiteturaequestre.com.br/) - Website portfólio para arquiteta equestre.
+
+### Ecommerce
+
+- [Joya Jewelry](https://joyajewelry.nl/) - Ecommerce de joias.
+- [Purissima Prime](https://purissimaprime.com/) - Ecommerce para purificadores de água.
+
+### SaaS e Aplicações
+
+- [Kmelo Digital](https://kmelodigital.com.br/) - SaaS de micro landing pages.
+- [Meu Clone App](https://omeucloneapp.adalo.com/meu-clone) - App nativo para gerenciamento de veículos.
+- [Agendamento Restaurantes](https://previewer.adalo.com/b209a629-b910-43c7-b3d4-3de6133be0cc) - App para agendamento de mesas e pedidos.
 
 ---
 
-**_"Tecnologia é meio. Resultado é fim."_**  
+## 📫 Vamos conversar?
+
+- GitHub: [@manobahiadev](https://github.com/manobahiadev)
+- Email: [gestao@kmelodigital.com](mailto:digitalkmelo@gmail.com)
+
+---
+
+**_"Tecnologia é meio. Resultado é consequência."_**
 
