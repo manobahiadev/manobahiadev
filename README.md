@@ -81,8 +81,8 @@ Otimização avançada para motores de busca, integração com Google Analytics 
 ## 📫 Vamos conversar?
 
 - GitHub: [@manobahiadev](https://github.com/manobahiadev)
-- Email: [gestao@kmelodigital.com](mailto:digitalkmelo@gmail.com)
-
+- Email: [gestao@kmelodigital.com.br](mailto:gestao@kmelodigital.com.br)
+- Instagram: [@manobahia.dev](https://instagram.com/manobahia.dev)
 ---
 
 **_"Tecnologia é meio. Resultado é consequência."_**
