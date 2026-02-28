@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Fernando
 
-Sou **desenvolvedor fullstack** com uma visão **estratégica e empreendedora**. Uso a **Inteligência Artificial** como aliada para acelerar processos, otimizar soluções e criar produtos digitais que vão além do código — sempre com foco em **performance, resultado e escalabilidade**.
+Sou desenvolvedor Full Stack focado em PHP/Laravel e ecossistema WordPress. Faço integrações e automações para negócios.
 
 ## 💼 Portfólio de Projetos
 
