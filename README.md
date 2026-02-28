@@ -1,8 +1,6 @@
 🚀 Fernando | Full Stack Developer
 PHP 8+ | Laravel | Vue.js | Tailwind CSS
 
-"Eu construo aplicações que funcionam, enquanto você perde tempo colando lixo no chat."
-
 🛠️ Arsenal Técnico
 Backend: PHP (Laravel), Automação de Processos, API Design.
 Frontend: Vue.js, Tailwind CSS, WordPress (Ecosystem).
