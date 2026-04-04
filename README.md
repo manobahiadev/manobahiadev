@@ -3,7 +3,7 @@ PHP 8+ | Laravel | Vue.js | Tailwind CSS
 
 🛠️ Arsenal Técnico
 Backend: PHP (Laravel), Automação de Processos, API Design.
-Frontend: Vue.js, Tailwind CSS, WordPress (Ecosystem).
+Frontend: Vue.js, Tailwind CSS, WordPress (Parei).
 Infra: Linux, Performance & Escalabilidade.
 
 💼 Projetos em Destaque
